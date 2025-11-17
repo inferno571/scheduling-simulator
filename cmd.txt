@@ -1,0 +1,1 @@
+ps -eo pid:6,comm:20,pri:4,nice:4,cputime:10,lstart --sort=pid
